@@ -1,0 +1,94 @@
+{
+  "reports": [
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_10_12_AM/json",
+      "startTime": 1515492935919
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_08_52_AM/json",
+      "startTime": 1515487926160
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_08_51_AM/json",
+      "startTime": 1515487901120
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_45_AM/json",
+      "startTime": 1515476759770
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_42_AM/json",
+      "startTime": 1515476558830
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_35_AM/json",
+      "startTime": 1515476161368
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_34_AM/json",
+      "startTime": 1515476081291
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_33_AM/json",
+      "startTime": 1515476001096
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_31_AM/json",
+      "startTime": 1515475909084
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_23_AM/json",
+      "startTime": 1515475394851
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_21_AM/json",
+      "startTime": 1515475317534
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_19_AM/json",
+      "startTime": 1515475196902
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_15_AM/json",
+      "startTime": 1515474959527
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_05_03_AM/json",
+      "startTime": 1515474206564
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/09_Jan_2018_04_44_AM/json",
+      "startTime": 1515473094949
+    },
+    {
+      "name": "FlipkartApp.scenarios.suite1.bdd",
+      "dir": "test-results/09_Jan_2018_09_53_AM/json",
+      "startTime": 1515471784715
+    },
+    {
+      "name": "FlipkartApp.scenarios.suite1.bdd",
+      "dir": "test-results/09_Jan_2018_09_50_AM/json",
+      "startTime": 1515471620642
+    },
+    {
+      "name": "FlipkartApp.scenarios.suite1.bdd",
+      "dir": "test-results/09_Jan_2018_09_49_AM/json",
+      "startTime": 1515471589439
+    }
+  ]
+}

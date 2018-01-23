@@ -1,0 +1,195 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "get",
+      "args": [
+        "{url=http://localhost:4723/wd/hub}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 935
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2545
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 3360
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 113
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 947
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1837
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 395
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2082
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 125
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 106
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 130
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 83
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 99
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 133
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 97
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 91
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 108
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 201
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='com.flipkart.android:id/btn_skip' or @id='com.flipkart.android:id/btn_skip' or @value='com.flipkart.android:id/btn_skip'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 97
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "Timed out after 30 seconds: Wait time out for close skip button to be visible\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12225', ip: '10.11.31.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: driver.version: unknown",
+      "type": "Fail",
+      "screenshot": "../img/testOrderFlow_13eggsqab3aqm40642.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Timed out after 30 seconds: Wait time out for close skip button to be visible\nBuild info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'\nSystem info: host: 'ICPL12225', ip: '10.11.31.179', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:292)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:261)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:475)\r\n\tat com.flipkartapp.pages.HomescreenTestPage.closeSkipButton(HomescreenTestPage.java:29)\r\n\tat com.flipkartapp.steps.OrderFlowSteps.testOrderFlow(OrderFlowSteps.java:13)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:122)\r\n\tat org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)\r\n\tat org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:101)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:164)\r\n\tat org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:110)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.invokeProvider(SurefireStarter.java:172)\r\n\tat org.apache.maven.surefire.booter.SurefireStarter.runSuitesInProcessWhenForked(SurefireStarter.java:104)\r\n\tat org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:70)\r\n"
+}

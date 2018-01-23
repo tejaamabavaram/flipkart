@@ -1,0 +1,3 @@
+com\flipkartapp\pages\HomeTestPage.class
+com\flipkartapp\steps\OrderFlowSteps.class
+com\flipkartapp\pages\HomescreenTestPage.class

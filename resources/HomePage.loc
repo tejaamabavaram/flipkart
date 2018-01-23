@@ -1,0 +1,3 @@
+homepage.hmenu.link = {\"locator\":\"accessibility id=Open Drawer\",\"desc\":\"home page hamburgmenu\"}
+homepage.menu.link = {\"locator\":\"xpath=\\\\\\\\android.widget.TextView[@text='Electronics']\",\"desc\":\"homepage menu type\"}
+homepage.submenu.link = {\"locator\":\"xpath=\\\\\\\\android.widget.TextView[@text='Laptops']\",\"desc\":\"homepage sub menu\"}

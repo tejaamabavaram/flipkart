@@ -1,0 +1,1 @@
+homescreen.btn.skip = {\"locator\":\"id=com.flipkart.android:id/btn_skip\",\"desc\":\"close skip button\"}
